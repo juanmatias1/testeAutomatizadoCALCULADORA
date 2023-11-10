@@ -1,3 +1,6 @@
+## Documentação Calculadora: 09/11/2023 - Autor: Juan Matias Calixto
+Foi atualizado a Calculadora.java e CalculadoraJunitTest.java
+
 # Testes Automatizados (CALCULADORA)
 Exercício individual - Testes Automatizados (CALCULADORA) - DANIEL OHATA
 
@@ -16,6 +19,3 @@ A classe CalculadoraJunitTest faz a funcionalidade de mostrar as operações: so
 
 
 ## Ultima atualização: 21/09/2023
-
-## Documentação Calculadora: 09/11/2023 - Autor: Juan Matias Calixto
-Foi atualizado a Calculadora.java e CalculadoraJunitTest.java
